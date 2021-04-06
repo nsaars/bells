@@ -1,0 +1,10 @@
+8:00,8:59 music "/home/liza/Desktop/bells/sounds/bells/celebrations/new_year/1.wav"
+9:00 bell
+9:45 bell
+9:46,9:59 music
+10:00 bell
+10:45 bell
+10:44,10:59 music
+
+08:54,08:57 music
+08:51 bell "/home/liza/Desktop/bells/sounds/bells/celebrations/new_year/1.wav"
